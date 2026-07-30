@@ -1,0 +1,24 @@
+name: Sync
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Run activity script
+        run: bash .github/scripts/activity.sh
+      - name: Push changes
+        run: |
+          if git diff --cached --quiet && git diff --quiet && [ -z "$(git log origin/main..HEAD 2>/dev/null)" ]; then
+            echo "No new commits to push."
+            exit 0
+          fi
+          git pull --rebase
+          git push
