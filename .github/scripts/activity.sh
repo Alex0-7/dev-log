@@ -20,7 +20,7 @@ fi
 if [ $(( RANDOM % 100 )) -ge $ACTIVE_PROB ]; then
   echo "Rest day. No activity."
   git config user.name "Alex0-7"
-  git config user.email "allenalexthomas7@gmail.com"
+  git config user.email "Alex0-7@users.noreply.github.com"
   exit 0
 fi
 
@@ -49,7 +49,7 @@ ITEMS=("login redirect bug" "PR #$(( RANDOM % 99 + 1 ))" "API client tests" "mem
 CHANGES=("fixed typo in login handler" "updated dependencies" "added unit tests" "refactored parser module" "cleaned up logging" "improved error messages" "added input validation" "fixed memory leak" "updated README" "refactored auth middleware")
 
 git config user.name "Alex0-7"
-git config user.email "allenalexthomas7@gmail.com"
+git config user.email "Alex0-7@users.noreply.github.com"
 
 for i in $(seq 1 $COMMITS); do
   FILE_TYPE=$(( RANDOM % 4 ))
