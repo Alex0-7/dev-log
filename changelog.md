@@ -1,3 +1,8 @@
+## [2026.08.05.26] - 2026-08-05
+### Updated
+* refactored parser module
+* added unit tests
+
 ## [2026.08.02.48] - 2026-08-02
 ### Worked on
 * refactored parser module
