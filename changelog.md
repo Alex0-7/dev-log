@@ -1,3 +1,8 @@
+## [2026.08.06.54] - 2026-08-06
+### Worked on
+* refactored auth middleware
+* fixed memory leak
+
 ## [2026.08.06.97] - 2026-08-06
 ### Refactored
 * refactored parser module
