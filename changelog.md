@@ -1,3 +1,8 @@
+## [2026.08.08.94] - 2026-08-08
+### Investigated
+* added input validation
+* updated dependencies
+
 ## [2026.08.07.1] - 2026-08-07
 ### Updated
 * refactored parser module
