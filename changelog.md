@@ -1,3 +1,8 @@
+## [2026.08.11.99] - 2026-08-11
+### Refactored
+* fixed memory leak
+* updated README
+
 ## [2026.08.11.58] - 2026-08-11
 ### Refactored
 * refactored auth middleware
