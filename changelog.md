@@ -1,3 +1,8 @@
+## [2026.08.12.98] - 2026-08-12
+### Updated
+* added input validation
+* updated dependencies
+
 ## [2026.08.11.99] - 2026-08-11
 ### Refactored
 * fixed memory leak
