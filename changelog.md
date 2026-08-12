@@ -1,3 +1,8 @@
+## [2026.08.12.58] - 2026-08-12
+### Refactored
+* added input validation
+* refactored parser module
+
 ## [2026.08.12.98] - 2026-08-12
 ### Updated
 * added input validation
