@@ -1,3 +1,8 @@
+## [2026.08.13.5] - 2026-08-13
+### Added
+* added unit tests
+* updated dependencies
+
 ## [2026.08.12.58] - 2026-08-12
 ### Refactored
 * added input validation
