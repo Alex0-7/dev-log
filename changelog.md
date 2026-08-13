@@ -1,3 +1,8 @@
+## [2026.08.13.51] - 2026-08-13
+### Fixed
+* added input validation
+* cleaned up logging
+
 ## [2026.08.13.39] - 2026-08-13
 ### Updated
 * added unit tests
