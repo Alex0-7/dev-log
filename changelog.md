@@ -1,3 +1,8 @@
+## [2026.08.13.39] - 2026-08-13
+### Updated
+* added unit tests
+* cleaned up logging
+
 ## [2026.08.13.5] - 2026-08-13
 ### Added
 * added unit tests
