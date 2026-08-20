@@ -1,3 +1,8 @@
+## [2026.08.20.77] - 2026-08-20
+### Wrote
+* refactored auth middleware
+* improved error messages
+
 ## [2026.08.19.27] - 2026-08-19
 ### Cleaned up
 * added input validation
