@@ -1,3 +1,8 @@
+## [2026.08.20.39] - 2026-08-20
+### Refactored
+* fixed memory leak
+* improved error messages
+
 ## [2026.08.20.77] - 2026-08-20
 ### Wrote
 * refactored auth middleware
