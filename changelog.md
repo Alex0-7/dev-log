@@ -1,3 +1,8 @@
+## [2026.08.20.78] - 2026-08-20
+### Wrote
+* added unit tests
+* added input validation
+
 ## [2026.08.20.39] - 2026-08-20
 ### Refactored
 * fixed memory leak
