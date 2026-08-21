@@ -1,3 +1,8 @@
+## [2026.08.21.99] - 2026-08-21
+### Worked on
+* fixed memory leak
+* improved error messages
+
 ## [2026.08.20.78] - 2026-08-20
 ### Wrote
 * added unit tests
