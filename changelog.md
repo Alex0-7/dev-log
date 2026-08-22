@@ -1,3 +1,8 @@
+## [2026.08.22.96] - 2026-08-22
+### Debugged
+* improved error messages
+* cleaned up logging
+
 ## [2026.08.21.99] - 2026-08-21
 ### Worked on
 * fixed memory leak
