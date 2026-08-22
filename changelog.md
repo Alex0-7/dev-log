@@ -1,3 +1,8 @@
+## [2026.08.22.25] - 2026-08-22
+### Refactored
+* refactored parser module
+* fixed typo in login handler
+
 ## [2026.08.22.96] - 2026-08-22
 ### Debugged
 * improved error messages
