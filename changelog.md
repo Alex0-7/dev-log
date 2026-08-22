@@ -1,3 +1,8 @@
+## [2026.08.22.94] - 2026-08-22
+### Cleaned up
+* refactored auth middleware
+* added unit tests
+
 ## [2026.08.22.25] - 2026-08-22
 ### Refactored
 * refactored parser module
