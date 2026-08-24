@@ -1,3 +1,8 @@
+## [2026.08.24.12] - 2026-08-24
+### Refactored
+* updated dependencies
+* cleaned up logging
+
 ## [2026.08.22.94] - 2026-08-22
 ### Cleaned up
 * refactored auth middleware
