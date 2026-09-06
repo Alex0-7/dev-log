@@ -1,3 +1,8 @@
+## [2026.09.06.7] - 2026-09-06
+### Worked on
+* improved error messages
+* refactored auth middleware
+
 ## [2026.08.24.96] - 2026-08-24
 ### Fixed
 * refactored parser module
