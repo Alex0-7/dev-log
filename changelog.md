@@ -1,3 +1,8 @@
+## [2026.09.22.85] - 2026-09-22
+### Updated
+* improved error messages
+* added unit tests
+
 ## [2026.09.15.98] - 2026-09-15
 ### Investigated
 * fixed memory leak
