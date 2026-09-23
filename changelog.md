@@ -1,3 +1,8 @@
+## [2026.09.23.70] - 2026-09-23
+### Wrote
+* refactored auth middleware
+* refactored auth middleware
+
 ## [2026.09.22.85] - 2026-09-22
 ### Updated
 * improved error messages
