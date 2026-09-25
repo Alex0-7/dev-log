@@ -1,3 +1,8 @@
+## [2026.09.25.35] - 2026-09-25
+### Investigated
+* fixed typo in login handler
+* improved error messages
+
 ## [2026.09.23.70] - 2026-09-23
 ### Wrote
 * refactored auth middleware
