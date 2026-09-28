@@ -1,3 +1,8 @@
+## [2026.09.28.77] - 2026-09-28
+### Added
+* added input validation
+* updated README
+
 ## [2026.09.25.35] - 2026-09-25
 ### Investigated
 * fixed typo in login handler
