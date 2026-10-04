@@ -1,3 +1,8 @@
+## [2026.10.04.99] - 2026-10-04
+### Fixed
+* added input validation
+* updated README
+
 ## [2026.10.01.42] - 2026-10-01
 ### Cleaned up
 * refactored parser module
