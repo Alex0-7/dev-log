@@ -1,3 +1,8 @@
+## [2026.10.11.87] - 2026-10-11
+### Cleaned up
+* fixed typo in login handler
+* added input validation
+
 ## [2026.10.11.55] - 2026-10-11
 ### Updated
 * updated dependencies
