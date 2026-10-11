@@ -1,3 +1,8 @@
+## [2026.10.11.5] - 2026-10-11
+### Worked on
+* fixed typo in login handler
+* improved error messages
+
 ## [2026.10.04.99] - 2026-10-04
 ### Fixed
 * added input validation
