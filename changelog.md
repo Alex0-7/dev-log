@@ -1,3 +1,8 @@
+## [2026.10.13.92] - 2026-10-13
+### Debugged
+* cleaned up logging
+* refactored auth middleware
+
 ## [2026.10.11.87] - 2026-10-11
 ### Cleaned up
 * fixed typo in login handler
