@@ -1,3 +1,8 @@
+## [2026.10.23.87] - 2026-10-23
+### Updated
+* cleaned up logging
+* updated README
+
 ## [2026.10.13.92] - 2026-10-13
 ### Debugged
 * cleaned up logging
