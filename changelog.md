@@ -1,3 +1,8 @@
+## [2026.10.29.25] - 2026-10-29
+### Worked on
+* cleaned up logging
+* refactored auth middleware
+
 ## [2026.10.23.87] - 2026-10-23
 ### Updated
 * cleaned up logging
