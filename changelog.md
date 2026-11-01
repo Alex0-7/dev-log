@@ -1,3 +1,8 @@
+## [2026.11.01.89] - 2026-11-01
+### Worked on
+* fixed typo in login handler
+* fixed typo in login handler
+
 ## [2026.10.29.25] - 2026-10-29
 ### Worked on
 * cleaned up logging
