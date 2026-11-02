@@ -1,3 +1,8 @@
+## [2026.11.02.91] - 2026-11-02
+### Fixed
+* fixed typo in login handler
+* added unit tests
+
 ## [2026.11.02.97] - 2026-11-02
 ### Refactored
 * updated dependencies
