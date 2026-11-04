@@ -1,3 +1,8 @@
+## [2026.11.04.91] - 2026-11-04
+### Refactored
+* cleaned up logging
+* updated dependencies
+
 ## [2026.11.04.59] - 2026-11-04
 ### Fixed
 * fixed memory leak
