@@ -1,3 +1,8 @@
+## [2026.11.04.26] - 2026-11-04
+### Refactored
+* added unit tests
+* improved error messages
+
 ## [2026.11.04.91] - 2026-11-04
 ### Refactored
 * cleaned up logging
