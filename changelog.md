@@ -1,3 +1,8 @@
+## [2026.11.04.3] - 2026-11-04
+### Debugged
+* added unit tests
+* added unit tests
+
 ## [2026.11.02.91] - 2026-11-02
 ### Fixed
 * fixed typo in login handler
