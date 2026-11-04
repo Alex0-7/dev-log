@@ -1,3 +1,8 @@
+## [2026.11.04.59] - 2026-11-04
+### Fixed
+* fixed memory leak
+* refactored parser module
+
 ## [2026.11.04.3] - 2026-11-04
 ### Debugged
 * added unit tests
