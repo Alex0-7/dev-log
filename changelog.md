@@ -1,3 +1,8 @@
+## [2026.11.08.58] - 2026-11-08
+### Cleaned up
+* fixed memory leak
+* fixed memory leak
+
 ## [2026.11.04.26] - 2026-11-04
 ### Refactored
 * added unit tests
