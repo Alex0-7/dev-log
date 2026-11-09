@@ -1,3 +1,8 @@
+## [2026.11.09.10] - 2026-11-09
+### Added
+* cleaned up logging
+* updated README
+
 ## [2026.11.08.58] - 2026-11-08
 ### Cleaned up
 * fixed memory leak
