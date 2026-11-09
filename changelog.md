@@ -1,3 +1,8 @@
+## [2026.11.09.72] - 2026-11-09
+### Added
+* fixed typo in login handler
+* fixed memory leak
+
 ## [2026.11.09.10] - 2026-11-09
 ### Added
 * cleaned up logging
