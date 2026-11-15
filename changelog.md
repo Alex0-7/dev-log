@@ -1,3 +1,8 @@
+## [2026.11.15.45] - 2026-11-15
+### Worked on
+* updated dependencies
+* refactored auth middleware
+
 ## [2026.11.15.60] - 2026-11-15
 ### Wrote
 * fixed typo in login handler
