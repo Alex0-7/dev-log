@@ -1,3 +1,8 @@
+## [2026.11.15.60] - 2026-11-15
+### Wrote
+* fixed typo in login handler
+* added unit tests
+
 ## [2026.11.15.8] - 2026-11-15
 ### Wrote
 * added input validation
