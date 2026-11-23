@@ -1,3 +1,8 @@
+## [2026.11.23.68] - 2026-11-23
+### Worked on
+* added input validation
+* refactored auth middleware
+
 ## [2026.11.15.45] - 2026-11-15
 ### Worked on
 * updated dependencies
