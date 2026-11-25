@@ -1,3 +1,8 @@
+## [2026.11.25.68] - 2026-11-25
+### Fixed
+* refactored auth middleware
+* refactored auth middleware
+
 ## [2026.11.23.68] - 2026-11-23
 ### Worked on
 * added input validation
